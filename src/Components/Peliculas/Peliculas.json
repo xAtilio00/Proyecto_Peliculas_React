@@ -1,0 +1,41 @@
+[
+    {
+        "img":"/img/Anabelle.jpg",
+        "titulo":"Anabelle Vuelve a Casa",
+        "descripcion":"12 de julio de 2019 en cines / 1h 46min / Terror / Calificación 4/5",
+        "sinopsis": "Ed y Lorraine Warren tratan de encerrar bajo llave a Annabelle, una muñeca poseída. Como demonólogos la colocaran en una vitrina bendecida como medida de seguridad, sin embargo, una noche terrorífica Annabelle despertará a otros espíritus malignos que se encuentran en la habitación y que tendrán una nueva fijación: la hija pequeña del matrimonio y sus amigos.",
+        "reparto": "Dirigida por: Gary Dauberman - Guion: James Wan, Gary Dauberman - Reparto: Mckenna Grace, Madison Iseman, Katie Sarife"
+    },
+
+    {
+        "img": "/img/Deadpool.jpg",
+        "titulo":"Deadpool",
+        "descripcion":"19 de febrero de 2016 en cines / 1h 48min / Comedia, Acción, Fantasía / Calificación 4.2/5",
+        "sinopsis":"Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
+        "reparto": "Dirigida por: Tim Miller - Guion: Rhett Reese, Paul Wernick - Reparto: Ryan Reynolds, Morena Baccarin, Ed Skrein"
+    },
+
+    {
+        "img": "/img/Malefica.jpg",
+        "titulo": "Maléfica",
+        "descripcion": "30 de mayo de 2014 en cines / 1h 37min / Fantasía, Aventura / Calificación 4/5",
+        "sinopsis": "Maléfica es una bella joven de corazón puro que vive una vida idílica en su reino del bosque. Cuando un ejército invasor pone en peligro el reino, Maléfica se erige como la temible protectora del bosque. Sin embargo, una despiadada traición endurece su corazón y la convierte en una criatura en busca de venganza",
+        "reparto": "Dirigida por: Robert Stromberg - Guion: Linda Woolverton, John Lee Hancock - Reparto: Angelina Jolie, Elle Fanning, Sharlto Copley"
+    },
+
+    {
+        "img": "/img/OnePiece.jpg",
+        "titulo": "One Piece: Fild Red",
+        "descripcion": "3 de noviembre de 2022 en cines / 1h 55min / Animación, Aventura, Comedia / Calificación 4.5/5",
+        "sinopsis": "Los Piratas de Sombrero de Paja van a un festival de música en la isla de Elegia a ver el concierto de Uta, una diva de enorme fama. Lo que iba a ser un concierto normal es interrumpido por una gran revelación por parte de Luffy: Uta es hija del Emperador Pirata Shanks.",
+        "reparto": "Dirigida por: Goro Taniguchi - Guion: Eiichiro Oda, Tsutomu Kuroiwa - Reparto: Kaori Nazuka, Mayumi Tanaka, Kaori Nazuka"
+    },
+
+    {
+        "img": "/img/Spiderman.jpg",
+        "titulo": "Spiderman: No Way Home",
+        "descripcion": "16 de diciembre de 2021 en cines / 2h 28min / Acción, Aventura, Fantasía / Calificación 4.5/5",
+        "sinopsis": "Después de que Mysterio desvelara la identidad de Spider-Man a todo el mundo en Lejos de casa, Peter Parker (Tom Holland), desesperado por volver a la normalidad y recuperar su anterior vida, pide ayuda a Doctor Strange para enmendar tal acción. El Hechicero Supremo de Marvel accede a ayudar al joven Hombre Araña, sin embargo, algo sale mal y el multiverso se convierte en la mayor amenaza hasta el momento.",
+        "reparto": "Dirigida por: Jon Watts - Guion: Chris McKenna, Steve Ditko - Reparto: Tom Holland, Zendaya, Benedict Cumberbatch"
+    }
+]
